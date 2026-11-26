@@ -1,0 +1,16 @@
+# Boussole Fiscale, édition 2027 (marque Alex Partner)
+
+> Pack numérique en français pour les micro-entrepreneurs en France : organiser ses finances, provisionner ses cotisations et suivre ses échéances. 27 €, paiement unique.
+
+Contenu :
+- E-book de 19 pages : méthode des 3 comptes, calcul du taux de provision selon l'activité (vente, services, libéral), chiffres clés 2026-2027 (plafonds, taux de cotisations, seuils de TVA), calendrier fin 2026 et 2027 avec la facture électronique, plan d'action de 30 jours.
+- Modèles de factures et devis à remplir (Excel).
+- Checklist fiscale express (PDF) : vérifications du mois, du trimestre et de l'année.
+- Mises à jour annuelles incluses, sans abonnement.
+
+Pour qui : micro-entrepreneurs, débutants ou installés.
+Limite : guide pratique d'information générale, pas un conseil fiscal, juridique ou comptable personnalisé.
+Vente et paiement : SMConseils (1TPE.com).
+Contact : contact.alexpartner@gmail.com
+
+Page officielle : https://alexpartnerfr.github.io/boussole-fiscale/
